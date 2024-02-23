@@ -1,9 +1,9 @@
 # code-with-quarkus
 
 Ce projet est un projet web qui permet d'appeler des URL :
-- http://localhost:8080/
-- http://localhost:8080/hello
-- http://localhost:8080/hello/anniversaire/Cl%C3%A9mentine/7
+- http://localhost:2024/
+- http://localhost:2024/hello
+- http://localhost:2024/hello/anniversaire/Cl%C3%A9mentine/7
 
 ## pour lancer l'application en mode dev 
 ````shell
