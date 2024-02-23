@@ -1,5 +1,17 @@
 # code-with-quarkus
 
+Ce projet est un projet web qui permet d'appeler des URL :
+- http://localhost:8080/
+- http://localhost:8080/hello
+- http://localhost:8080/hello/anniversaire/Cl%C3%A9mentine/7
+
+## pour lancer l'application en mode dev 
+````shell
+$ mvn quarkus:dev
+````
+
+pour arrêter l'appilcation il faut faire : ctrl + C
+
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
